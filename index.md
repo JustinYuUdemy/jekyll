@@ -1,8 +1,11 @@
 # Welcome to my BLOG
 
-This is something about me, a cohen high school student.
+I'm Justin, a cohen high school student.
 
-## Me
+## Me: im the dude in the middle
+
+<img src="top_story_0e0168305189f62f1391_cybersecurity_team.jpg">
+
 
 I am a student in cohens class. I learn a lot from him. He inspired me to study comp sci. Also emacs is better than vim. 
 
