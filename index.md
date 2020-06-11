@@ -1,5 +1,3 @@
-# Welcome to my blog
-
 This is something about me, a cohen high school student.
 
 ## Me
